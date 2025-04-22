@@ -1,4 +1,4 @@
-AgriVision-Kiwi Dataset
+**AgriVision-Kiwi Dataset**
 
 The proposed image dataset was gathered from kiwifruit fields in Chrysoupoli, in Kavala, Greece, which is one of the three most productive regions for kiwifruits in the country. The images were taken using a smartphone camera with a resolution of 1920×1024 pixels.
 
