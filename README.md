@@ -25,5 +25,11 @@ In Figure 1, indicative sample images from the AgriVision-Kiwi Dataset for each 
 </table>
 Figure 1. Image samples for disease recognition from the AgriVision-Kiwi Dataset for each class: (a) Alternaria disease; (b) Nematodes disease; (c) Phytophthora disease; (d) Healthy leaf
 
+---
 
+## 📜 Cite us
+
+T. Kalampokas, E. Vrochidou, E. Mavridou, L. Iliadis, D. Voglitsis, M. Michalopoulou, G. Broufas and G. A. Papakostas. Empowering Kiwifruit Cultivation with AI: Leaf Disease Recognition Using AgriVision-Kiwi Open Dataset. *Electronics*. 2025; 14(9):1705. https://doi.org/10.3390/electronics14091705
+
+---
 
