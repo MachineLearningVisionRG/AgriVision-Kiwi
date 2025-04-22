@@ -11,9 +11,19 @@ The images were captured during various hours of the day in summer from multiple
 | 70 (Nematodes)      | 
 | 33 (Alternaria)     | 
 
-
-| <img src="media/alternaria.jpg" a| |
-|----------------|--------------|
-|||
-
 In Figure 1, indicative sample images from the AgriVision-Kiwi Dataset for each class are presented to provide a visual representation of the final dataset used for disease recognition.
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="media/alternaria.jpg" width="200"><br><strong>(a)</strong></td>
+    <td align="center"><img src="media/Nematodes.jpg" width="200"><br><strong>(b)</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="media/Phytophthora.jpg" width="200"><br><strong>(c)</strong></td>
+    <td align="center"><img src="media/healthy.jpg" width="200"><br><strong>(d)</strong></td>
+  </tr>
+</table>
+Figure 1. Image samples for disease recognition from the AgriVision-Kiwi Dataset for each class: (a) Alternaria disease; (b) Nematodes disease; (c) Phytophthora disease; (d) Healthy leaf
+
+
+
