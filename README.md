@@ -11,4 +11,9 @@ The images were captured during various hours of the day in summer from multiple
 | 70 (Nematodes)      | 
 | 33 (Alternaria)     | 
 
+
+| <img src="media/alternaria.jpg" a| |
+|----------------|--------------|
+|||
+
 In Figure 1, indicative sample images from the AgriVision-Kiwi Dataset for each class are presented to provide a visual representation of the final dataset used for disease recognition.
